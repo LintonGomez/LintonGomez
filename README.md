@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LintonGomez
 - 👀 I’m interested in learn about programming
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning Javascript
 - Im searching for new projects where i can begin to work
 - 📫 How to reach me: lintongomez@gmail.com
 
